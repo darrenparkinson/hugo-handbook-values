@@ -7,6 +7,8 @@ categories:
   - modules
 ---
 
+# Introduction
+
 This is the introduction.  You can have whatever information you like here.
 
 ## Intro Sub Heading 1

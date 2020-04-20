@@ -7,6 +7,8 @@ categories:
 weight: 30
 ---
 
+# Values Three
+
 This is values three.
 
 ## Values Three Sub Heading
