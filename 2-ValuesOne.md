@@ -1,9 +1,10 @@
 ---
-title: Values
+title: Values One
 author: Me 
 date: '2020-04-17'
 categories:
   - modules
+weight: 20
 ---
 
 # Values Top Level
